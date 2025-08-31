@@ -1,4 +1,3 @@
-# dacon_elec
 # ⚡ 2025 전력사용량 예측 AI 경진대회
 **DACON – Time Series Analysis (2025.08.28)**
 서동현 · 유동현
