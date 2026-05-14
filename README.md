@@ -2,11 +2,11 @@
 **DACON – Time Series Analysis (2025.08.28)**
 서동현 · 유동현
 
-<img src="https://github.com/user-attachments/assets/943a4cd4-d6ab-4873-90a7-bcc6df3f1f6e" alt="한국에너지공단" width="500">\
+<img src="https://raw.githubusercontent.com/tjehdgus/dacon_elec_catboost/main/images/cover.png" alt="한국에너지공단" width="500">\
 
 ---
 ## 🗂 발표 자료
-- [📂 발표자료 PDF](https://github.com/tjehdgus/dacon_elec/blob/main/%ED%95%9C%EA%B5%AD%EC%97%90%EB%84%88%EC%A7%80%EA%B3%B5%EB%8B%A8.pdf)
+- [📂 발표자료 PDF](./docs/한국에너지공단.pdf)
 - 프로젝트의 자세한 내용은 발표자료에서 확인할 수 있습니다:  
 # 📖 프로젝트 개요
 안정적이고 효율적인 에너지 공급을 위해 **전력 사용량 예측의 중요성**은 점점 커지고 있습니다.
